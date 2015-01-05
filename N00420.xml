@@ -117,8 +117,9 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:000521_0000_0FA6B3F5EF008FF0"/>
-            <pb facs="tcp:000521_0001_0FA6B3F9F38B3890" rendition="simple:additions"/>
+            <pb facs="unknown:000521_0000_0FA6B3F5EF008FF0"/>
+            <pb facs="unknown:000521_0001_0FA6B3F9F38B3890"
+                rendition="simple:additions"/>
             <head>
                <figure/> AT THE GENERAL COURT Of Their Majesties Colony of the Massachusetts BAY in New-England, Sitting in Boston by Adjournment.
 <date>December. 10<hi rend="sup">th</hi>. 1690.</date>
